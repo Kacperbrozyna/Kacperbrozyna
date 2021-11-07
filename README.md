@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Kacper Brozyna
+- 👀 I’m interested in developing different types software with a current focus on cryptocurrencies and blockchains
+- 🌱 I’m currently learning Java and MySql to improve my software development skills
+- 💞️ I’m looking to collaborate on software to increase acessability to new tech or on software that can assist people
+- 📫 You can reach me using my email: kacperbrozyna@hotmail.com or on my linkedin: https://www.linkedin.com/in/kacper-brozyna-99379a160/ 
